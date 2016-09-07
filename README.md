@@ -56,6 +56,10 @@ You can use `npm run-script` or `npm run`; they both do the same thing, but `npm
 - You can pass arguments to your scripts by passing `--` to `npm run`, followed by the arguments. Example: Given the script `"mocha": "mocha"`, you can run `npm run mocha -- --reporter xunit`. This effectivly runs `mocha --reporter xunit`.
 - Running `npm test` is the same as running `npm run test`. The same applies to `npm start` and `npm stop`.
 
+## Contributing
+
+See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master/CONTRIBUTING.md).
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

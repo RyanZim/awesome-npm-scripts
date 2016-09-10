@@ -1,0 +1,11 @@
+{
+  "name": "awesome-npm-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "doctoc": "doctoc README.md"
+  },
+  "devDependencies": {
+    "doctoc": "^1.2.0"
+  }
+}

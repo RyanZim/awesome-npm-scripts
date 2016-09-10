@@ -4,6 +4,25 @@
 
 *You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
 
+## Contents
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Articles](#articles)
+- [Task Runners](#task-runners)
+- [File Watchers](#file-watchers)
+- [Cross-platform Utilities](#cross-platform-utilities)
+  - [Utility Packs](#utility-packs)
+- [Other Utilities](#other-utilities)
+- [Cross-platform Shell Reference](#cross-platform-shell-reference)
+- [`npm run` Reference](#npm-run-reference)
+- [Contributing](#contributing)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Articles
 
 - [Why we should stop using Grunt & Gulp](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/) - by Keith Cirkel.

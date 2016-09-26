@@ -74,6 +74,7 @@ You can use `npm run-script` or `npm run`; they both do the same thing, but `npm
   - You can't nest `pre` and `post` hooks (i.e. `preprescript` won't work).
 - You can pass arguments to your scripts by passing `--` to `npm run`, followed by the arguments. Example: Given the script `"mocha": "mocha"`, you can run `npm run mocha -- --reporter xunit`. This effectively runs `mocha --reporter xunit`.
 - Running `npm test` is the same as running `npm run test`. The same applies to `npm start` and `npm stop`.
+- You can run `npm run <script> -s` to silence the default npm output (useful for calling a script within another script).
 
 ## Contributing
 

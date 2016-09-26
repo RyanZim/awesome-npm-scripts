@@ -72,7 +72,7 @@ You can use `npm run-script` or `npm run`; they both do the same thing, but `npm
 - Run just `npm run` to print a list of scripts.
 - Running `npm run script` (where `script` is the name of your script) will run `prescript`, `script`, and `postscript`; in that order.
   - You can't nest `pre` and `post` hooks (i.e. `preprescript` won't work).
-- You can pass arguments to your scripts by passing `--` to `npm run`, followed by the arguments. Example: Given the script `"mocha": "mocha"`, you can run `npm run mocha -- --reporter xunit`. This effectivly runs `mocha --reporter xunit`.
+- You can pass arguments to your scripts by passing `--` to `npm run`, followed by the arguments. Example: Given the script `"mocha": "mocha"`, you can run `npm run mocha -- --reporter xunit`. This effectively runs `mocha --reporter xunit`.
 - Running `npm test` is the same as running `npm run test`. The same applies to `npm start` and `npm stop`.
 
 ## Contributing

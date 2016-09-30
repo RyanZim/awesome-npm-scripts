@@ -16,6 +16,7 @@
 - [Cross-platform Utilities](#cross-platform-utilities)
   - [Utility Packs](#utility-packs)
 - [Other Utilities](#other-utilities)
+- [Miscellaneous](#miscellaneous)
 - [Cross-platform Shell Reference](#cross-platform-shell-reference)
 - [`npm run` Reference](#npm-run-reference)
 - [Contributing](#contributing)
@@ -56,6 +57,9 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 - [hashmark](https://github.com/keithamus/hashmark) -  Take contents of a file and output as new file with a hash in the name.
 
+## Miscellaneous
+
+- [screwy](https://github.com/samueleaton/screwy) - The npm scripts GUI.
 
 ## Cross-platform Shell Reference
 

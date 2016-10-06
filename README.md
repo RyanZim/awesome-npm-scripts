@@ -13,7 +13,7 @@
 - [Articles](#articles)
 - [Task Runners](#task-runners)
 - [File Watchers](#file-watchers)
-- [Dev Servers](#doc-servers)
+- [Dev Servers](#dev-servers)
 - [Cross-platform Utilities](#cross-platform-utilities)
   - [Utility Packs](#utility-packs)
 - [Other Utilities](#other-utilities)
@@ -46,8 +46,8 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 ## Dev Servers
 
-- [http-server](https://github.com/indexzero/http-server) - A simple zero-configuration command-line http server
-- [live-server](https://github.com/tapio/live-server) - Simple development http server with live reload capability
+- [http-server](https://github.com/indexzero/http-server) - A simple zero-configuration command-line http server.
+- [live-server](https://github.com/tapio/live-server) - Simple development http server with live reload capability.
 
 ## Cross-platform Utilities
 

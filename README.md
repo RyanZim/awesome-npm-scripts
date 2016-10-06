@@ -60,6 +60,7 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 ## Miscellaneous
 
 - [screwy](https://github.com/samueleaton/screwy) - The npm scripts GUI.
+- [Forrest](https://github.com/stefanjudis/forrest) - An npm scripts desktop client.
 
 ## Cross-platform Shell Reference
 

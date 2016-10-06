@@ -66,6 +66,7 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 ## Other Utilities
 
 - [hashmark](https://github.com/keithamus/hashmark) -  Take contents of a file and output as new file with a hash in the name.
+- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
 
 ## Miscellaneous
 

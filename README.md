@@ -58,6 +58,7 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 - [sync-files](https://github.com/byteclubfr/node-sync-files) - Cross-platform `rsync`-like directory syncing with watch mode.
 - [echo-cli](https://github.com/iamakulov/echo-cli) - Cross-platform `echo` with JS escape sequence support.
 - [clear-cli](https://github.com/sindresorhus/clear-cli) - Clear the terminal cross-platform.
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style.
 
 ### Utility Packs
 

@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "test": "awesome-lint",
     "doctoc": "doctoc README.md"
   },
   "devDependencies": {
+    "awesome-lint": "^0.1.0",
     "doctoc": "^1.2.0"
   }
 }

@@ -15,5 +15,6 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title and include a link to the package and why it should be included.
+- You can run `npm test` to ensure that you haven't made any errors (Thanks to [awesome-lint](https://github.com/sindresorhus/awesome-lint)).
 
 Thank you for your suggestions!

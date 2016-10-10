@@ -75,6 +75,7 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 - [screwy](https://github.com/samueleaton/screwy) - The npm scripts GUI.
 - [Forrest](https://github.com/stefanjudis/forrest) - An npm scripts desktop client.
 - [run-npm](https://github.com/timoxley/npm-run) - Run locally-installed node module executables. Useful for debugging npm scripts.
+- [npm-quick-run](https://github.com/bahmutov/npm-quick-run) - Quickly run npm scripts by prefix without typing the full name.
 
 ## Cross-platform Shell Reference
 

@@ -60,6 +60,7 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 - [echo-cli](https://github.com/iamakulov/echo-cli) - Cross-platform `echo` with JS escape sequence support.
 - [clear-cli](https://github.com/sindresorhus/clear-cli) - Clear the terminal cross-platform.
 - [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style.
+- [ntee](https://github.com/stefanmaric/ntee) - Cross-platform Unix `tee`; read from standard input and write to standard output and files.
 
 ### Utility Packs
 

@@ -12,6 +12,7 @@
 
 
 - [Articles](#articles)
+- [Videos](#videos)
 - [Task Runners](#task-runners)
 - [File Watchers](#file-watchers)
 - [Dev Servers](#dev-servers)
@@ -31,6 +32,10 @@
 - [Why we should stop using Grunt & Gulp](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/) - by Keith Cirkel.
 - [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - A sequel to [Why we should stop using Grunt & Gulp](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/).
 - [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8) -  by Cory House.
+
+## Videos
+
+- [Advanced front-end automation with npm scripts](https://www.youtube.com/watch?v=0RYETb9YVrk) - by Kate Hudson
 
 ## Task Runners
 

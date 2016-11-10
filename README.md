@@ -66,6 +66,7 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 - [clear-cli](https://github.com/sindresorhus/clear-cli) - Clear the terminal cross-platform.
 - [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style.
 - [ntee](https://github.com/stefanmaric/ntee) - Cross-platform Unix `tee`; read from standard input and write to standard output and files.
+- [catw](https://github.com/substack/catw) - Cross-platform `cat`, with optional watch mode.
 
 ### Utility Packs
 

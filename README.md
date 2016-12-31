@@ -88,6 +88,8 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 ## Cross-platform Shell Reference
 
+A quick reference of the shell operators & commands that work the same on Unix and Windows.
+
 - `&&` runs commands in sequence. If a command fails, the script exits.
 - `|` pipes the stdout of one command into the stdin of the next. (`do-something | something else`)
 - `>` writes the stdout of a command to a file. (`do-something > file`)

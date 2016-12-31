@@ -85,6 +85,7 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 - [Forrest](https://github.com/stefanjudis/forrest) - An npm scripts desktop client.
 - [run-npm](https://github.com/timoxley/npm-run) - Run locally-installed node module executables. Useful for debugging npm scripts.
 - [npm-quick-run](https://github.com/bahmutov/npm-quick-run) - Quickly run npm scripts by prefix without typing the full name.
+- [edit-script](https://github.com/RyanZim/edit-script) - Edit npm scripts from the command line without worrying about JSON escaping. 
 
 ## Cross-platform Shell Reference
 

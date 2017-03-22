@@ -80,6 +80,7 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
 - [opn-cli](https://github.com/sindresorhus/opn-cli) - Open websites, files, executables, etc. with the user's preferred application.
 - [headr](https://github.com/heldr/headr) - Add header / banner info to a file.
+- [Bower files CLI](https://github.com/thompsonemerson/bower-files-cli) - Getting all main bower files using CLI
 
 ## Miscellaneous
 

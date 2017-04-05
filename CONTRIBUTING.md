@@ -18,3 +18,5 @@ Ensure your pull request adheres to the following guidelines:
 - You can run `npm test` to ensure that you haven't made any errors (Thanks to [awesome-lint](https://github.com/sindresorhus/awesome-lint)).
 
 Thank you for your suggestions!
+
+This is an [OPEN Open Source Project](http://openopensource.org).

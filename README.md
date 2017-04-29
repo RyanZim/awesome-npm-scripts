@@ -73,6 +73,7 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 - [cross-os](https://github.com/milewski/cross-os) - Run platform-specific npm scripts.
 - [ntee](https://github.com/stefanmaric/ntee) - Cross-platform Unix `tee`; read from standard input and write to standard output and files.
 - [catw](https://github.com/substack/catw) - Cross-platform `cat`, with optional watch mode.
+- [webhook-exec](https://github.com/milewski/webhook-exec) - Cross-plarform Webhook Server to automatically run commands defined in your package.json.
 
 ### Utility Packs
 

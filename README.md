@@ -88,7 +88,8 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
 - [opn-cli](https://github.com/sindresorhus/opn-cli) - Open websites, files, executables, etc. with the user's preferred application.
 - [headr](https://github.com/heldr/headr) - Add header / banner info to a file.
-- [Bower files CLI](https://github.com/thompsonemerson/bower-files-cli) - Get main bower files on the command line
+- [Bower files CLI](https://github.com/thompsonemerson/bower-files-cli) - Get main bower files on the command line.
+- [webhook-exec](https://github.com/milewski/webhook-exec) - Tiny Webhook Server to automatically run commands defined in your package.json.
 
 ## Miscellaneous
 

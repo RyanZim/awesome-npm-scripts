@@ -51,6 +51,8 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 ## File Watchers
 
+Tools to watch your source files and run a build command whenever any of the files change.
+
 - [onchange](https://github.com/Qard/onchange) - `onchange <glob> -- <command>`.
 - [watch](https://github.com/mikeal/watch) - `watch <command> <directory>`.
 
@@ -61,22 +63,24 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 ## Cross-platform Utilities
 
-- [rimraf](https://github.com/isaacs/rimraf) - Cross-platform `rm -rf`.
+Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
+
+- [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`.
 - [del-cli](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion.
-- [mkdirp](https://github.com/substack/node-mkdirp) - Cross-platform `mkdir -p`.
-- [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Cross-platform file/directory copying/renaming.
-- [copyfiles](https://github.com/calvinmetcalf/copyfiles) - Cross-platform file copying.
-- [sync-files](https://github.com/byteclubfr/node-sync-files) - Cross-platform `rsync`-like directory syncing with watch mode.
+- [mkdirp](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`.
+- [cpy-cli](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming.
+- [copyfiles](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory.
+- [sync-files](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode.
 - [echo-cli](https://github.com/iamakulov/echo-cli) - Cross-platform `echo` with JS escape sequence support.
-- [clear-cli](https://github.com/sindresorhus/clear-cli) - Clear the terminal cross-platform.
+- [clear-cli](https://github.com/sindresorhus/clear-cli) - Clear the terminal.
 - [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style.
 - [cross-os](https://github.com/milewski/cross-os) - Run platform-specific npm scripts.
-- [ntee](https://github.com/stefanmaric/ntee) - Cross-platform Unix `tee`; read from standard input and write to standard output and files.
-- [catw](https://github.com/substack/catw) - Cross-platform `cat`, with optional watch mode.
+- [ntee](https://github.com/stefanmaric/ntee) - Utility that reads from standard input and writes to standard output and files; like Unix `tee`.
+- [catw](https://github.com/substack/catw) - Print a file to stdout, with optional watch mode; sorta like Unix `cat`.
 
 ### Utility Packs
 
-- [shx](https://github.com/shelljs/shx) - Supports `pwd`, `ls`, `rm`, `echo`, `touch`, `cp`, and `mkdir`.
+- [shx](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
 
 ## Other Utilities
 

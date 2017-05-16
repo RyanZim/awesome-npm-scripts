@@ -48,6 +48,7 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 - [script-runner](https://github.com/paulpflug/script-runner) - Simple task runner with a terse syntax.
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) - Fully featured task runner.
 - [redrun](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+- [concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run multiple commands concurrently, Like npm run watch-js & npm run watch-less but better.
 
 ## File Watchers
 

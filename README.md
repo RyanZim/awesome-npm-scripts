@@ -2,7 +2,7 @@
 
 [<img src="npm-logo.png" align="right" width="150">](https://www.npmjs.com)
 
-> Everything awesome related to npm scripts and using npm as a build tool.
+> Everything awesome for using npm as a build tool.
 
 You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).
 

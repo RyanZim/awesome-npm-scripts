@@ -68,6 +68,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 - [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`.
 - [del-cli](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion.
 - [mkdirp](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`.
+- [cpr](https://github.com/davglass/cpr) - cp -r for Nodejs
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming.
 - [copyfiles](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory.
 - [sync-files](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode.

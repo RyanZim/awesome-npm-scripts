@@ -78,6 +78,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 - [cross-os](https://github.com/milewski/cross-os) - Run platform-specific npm scripts.
 - [ntee](https://github.com/stefanmaric/ntee) - Utility that reads from standard input and writes to standard output and files; like Unix `tee`.
 - [catw](https://github.com/substack/catw) - Print a file to stdout, with optional watch mode; sorta like Unix `cat`.
+- [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Send native desktop notifications when npm scripts fail.
 
 ### Utility Packs
 

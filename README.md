@@ -38,7 +38,7 @@ You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).
 
 ## Videos/Talks
 
-- [Advanced front-end automation with npm scripts](https://www.youtube.com/watch?v=0RYETb9YVrk) - Talk at Nordic.js 2015 by Kate Hudson
+- [Advanced front-end automation with npm scripts](https://www.youtube.com/watch?v=0RYETb9YVrk) - Talk at Nordic.js 2015 by Kate Hudson.
 - [How to create a build system with npm scripts](http://www.penta-code.com/how-to-create-a-build-system-with-npm-scripts/) - Video tutorial series on setting up a front-end build system.
 
 ## Task Runners
@@ -68,7 +68,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 - [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`.
 - [del-cli](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion.
 - [mkdirp](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`.
-- [cpr](https://github.com/davglass/cpr) - `cp -r` for Nodejs
+- [cpr](https://github.com/davglass/cpr) - `cp -r` for Node.js.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming.
 - [copyfiles](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory.
 - [sync-files](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode.
@@ -89,9 +89,9 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
 - [opn-cli](https://github.com/sindresorhus/opn-cli) - Open websites, files, executables, etc. with the user's preferred application.
 - [headr](https://github.com/heldr/headr) - Add header / banner info to a file.
-- [Bower files CLI](https://github.com/thompsonemerson/bower-files-cli) - Get main bower files on the command line
+- [Bower files CLI](https://github.com/thompsonemerson/bower-files-cli) - Get main bower files on the command line.
 - [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Send native desktop notifications when npm scripts fail.
-- [MergerJS](https://github.com/joao-neves95/merger-js) - A lightweight and simple cross-platform CLI build tool for JavaScript files, file imports, auto build capabilities and native OS notifications.
+- [MergerJS](https://github.com/joao-neves95/merger-js) - A lightweight and simple cross-platform CLI build tool for JavaScript files, file imports, auto build capabilities, and native OS notifications.
 
 ## Miscellaneous
 
@@ -107,9 +107,9 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 A quick reference of the shell operators & commands that work the same on Unix and Windows.
 
 - `&&` runs commands in sequence. If a command fails, the script exits.
-- `|` pipes the stdout of one command into the stdin of the next. (`do-something | something else`)
-- `>` writes the stdout of a command to a file. (`do-something > file`)
-- `<` sends the contents of a file to a command's stdin. (`command < file`)
+- `|` pipes the stdout of one command into the stdin of the next. (`do-something | something else`).
+- `>` writes the stdout of a command to a file. (`do-something > file`).
+- `<` sends the contents of a file to a command's stdin. (`command < file`).
 - `cd <dir>` changes the current working directory to `<dir>`. Note that `cd` alone prints the current working directory on windows, but changes the working directory to `~` on \*nix.
 
 ## `npm run` Reference

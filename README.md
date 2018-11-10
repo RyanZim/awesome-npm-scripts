@@ -13,7 +13,6 @@ You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Articles](#articles)
 - [Videos/Talks](#videostalks)
 - [Task Runners](#task-runners)
@@ -92,6 +91,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 - [headr](https://github.com/heldr/headr) - Add header / banner info to a file.
 - [Bower files CLI](https://github.com/thompsonemerson/bower-files-cli) - Get main bower files on the command line
 - [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Send native desktop notifications when npm scripts fail.
+- [MergerJS](https://github.com/joao-neves95/merger-js) - A lightweight and simple cross-platform CLI build tool for JavaScript files, file imports, auto build capabilities and native OS notifications.
 
 ## Miscellaneous
 

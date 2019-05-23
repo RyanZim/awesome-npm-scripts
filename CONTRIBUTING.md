@@ -19,4 +19,4 @@ Ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
-This is an [OPEN Open Source Project](http://openopensource.org).
+This is an [OPEN Open Source Project](http://openopensource.github.io/).

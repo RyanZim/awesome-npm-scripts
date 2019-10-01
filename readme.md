@@ -47,6 +47,9 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 - [script-runner](https://github.com/paulpflug/script-runner) - Simple task runner with a terse syntax.
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) - Fully featured task runner.
 - [redrun](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+- [nps](https://github.com/sezna/nps) - NPM Package Scripts -- All the benefits of npm scripts without the cost of a bloated package.json and limits of json
+- [tasksfile](https://github.com/pawelgalazka/tasksfile) - (previously RunJS) Minimalistic task runner for node.js, like GNU Make but write js instead of bash.
+
 
 ## File Watchers
 

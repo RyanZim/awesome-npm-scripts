@@ -34,6 +34,7 @@ You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).
 - [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - Sequel to [Why we should stop using Grunt & Gulp](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/).
 - [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8) -  Article by Cory House.
 - [Helpers and tips for npm run scripts](http://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html) - Blog post by Michael Kühnel covering advanced topics.
+- [Running cross-platform tasks via npm package scripts](https://2ality.com/2022/08/npm-package-scripts.html) - The most comprehensive guide to using npm Scripts by Dr. Axel Rauschmayer.
 
 ## Videos/Talks
 

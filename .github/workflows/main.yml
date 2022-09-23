@@ -12,6 +12,6 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-node@v2
         with:
-          node-version: '18'
+          node-version: 'latest'
       - run: npm install
       - run: npm test

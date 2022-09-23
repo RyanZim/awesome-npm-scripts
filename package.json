@@ -8,7 +8,7 @@
     "doctoc": "doctoc README.md"
   },
   "devDependencies": {
-    "awesome-lint": "^0.10.0",
-    "doctoc": "^1.2.0"
+    "awesome-lint": "^0.18.0",
+    "doctoc": "^2.2.1"
   }
 }

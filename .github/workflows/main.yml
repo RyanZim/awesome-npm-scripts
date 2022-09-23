@@ -1,7 +1,8 @@
 name: CI
 on:
-  - push
-  - pull_request
+  push:
+    branches: master
+  pull_request:
 jobs:
   lint:
     name: Run awesome-lint
